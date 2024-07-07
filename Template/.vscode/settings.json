@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "config.h": "c",
+        "freertos.h": "c"
+    }
+}
